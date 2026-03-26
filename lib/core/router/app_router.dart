@@ -29,8 +29,8 @@ class _PlaceholderScreen extends StatelessWidget {
             Text(
               'VITORY',
               style: Theme.of(context).textTheme.headlineLarge?.copyWith(
-                fontWeight: FontWeight.bold,
-              ),
+                    fontWeight: FontWeight.bold,
+                  ),
             ),
             const SizedBox(height: 8),
             Text(
